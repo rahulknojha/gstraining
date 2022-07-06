@@ -4,3 +4,4 @@
 2. Install Database
 3. Created DB
 4. Run migrations
+5. Configure APP Server
